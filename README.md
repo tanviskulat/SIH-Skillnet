@@ -496,7 +496,7 @@ SkillNet/
 * Project recommendations
 * Industry skill-demand mapping
 * AI-powered portfolio builder
-* Internship ,job and project opportunities
+* Internship, job and project opportunities
 * Academician module
 * Industry module
 
