@@ -492,36 +492,34 @@ SkillNet/
 * Difficulty-based assessment
 * Skill-gap analysis
 * Competency integration
-* Personalized roadmap
+* Personalized learning roadmap
 * Project recommendations
 * Industry skill-demand mapping
-* Portfolio builder
-* Internship and opportunity module
-* Academia dashboard
-* Industry dashboard
+* AI-powered portfolio builder
+* Internship ,job and project opportunities
+* Academician module
+* Industry module
 
 ---
 
 # 🔮 Future Scope
 
-SkillNet can evolve into a complete **Academia–Industry Skill Ecosystem**.
+SkillNet can evolve into a comprehensive **Academia–Industry Skill Ecosystem**.
 
 Future enhancements include:
 
-* Advanced adaptive assessments
+* Adaptive AI-based assessments
 * Real-time industry skill-demand analysis
 * Industry-specific competency frameworks
-* AI-generated portfolios
-* Institution-level analytics
-* Industry project collaboration
-* Intelligent internship matching
-* Faculty–industry collaboration
-* Skill verification
-* Digital certificates
-* Advanced recommendation systems
-* Multilingual support
+* AI-Powered Portfolio Builder
+* Institution-level analytics & Insights
+* Industry–Academia Project Collaboration
+* AI-Powered Internship & Job Matching
+* Academician–Industry Collaboration
+* Skill verification Through Assessments & Project Evidence
+* Verified Digital Certificates
+* Multilingual Platform Support
 * Mobile application
-* Cloud-based analytics
 
 ---
 
