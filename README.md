@@ -602,7 +602,7 @@ The platform transforms fragmented academic and industry interactions into a con
 
 <br>
 
-### 🚀SKillNet
+### 🚀SkillNet
 
 **AI-Powered Skill Development & Industry–Academia Collaboration Platform**
 
